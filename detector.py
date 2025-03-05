@@ -1,8 +1,31 @@
 #!/usr/bin/python3
-
-# Disclaimer: This program is intended solely for educational and learning purposes.
-# It must not be used to harm or interfere with any network without explicit permission.
-# The author is not liable for any misuse or illegal activities performed with this tool.
+#
+#--------------------------------------------------------------------------------------------------------------------------
+# Pembuat: Rofi (Fixploit03)
+# Github: https://github.com/fixploit03/deauther
+# Copyright (c) 2025 - Rofi (Fixploit03)
+#--------------------------------------------------------------------------------------------------------------------------
+# DISCLAIMER:
+#
+# Program ini dibuat semata-mata untuk tujuan edukasi dan pembelajaran tentang keamanan jaringan nirkabel (Wi-Fi).
+# Penggunaan program ini harus dilakukan hanya pada jaringan atau perangkat yang Anda miliki atau memiliki izin eksplisit
+# dari pemiliknya untuk menguji keamanannya. Penggunaan program ini untuk tujuan ilegal, seperti mengganggu,
+# menyusup, atau merusak jaringan tanpa izin, adalah melanggar hukum di banyak yurisdiksi dan dapat mengakibatkan
+# konsekuensi hukum yang serius, termasuk denda atau penjara.
+#
+# Pembuat (Rofi/Fixploit03) tidak bertanggung jawab atas segala bentuk penyalahgunaan atau kerusakan
+# yang disebabkan oleh penggunaan program ini. Anda, sebagai pengguna, bertanggung jawab penuh atas tindakan Anda
+# sendiri dan harus mematuhi hukum serta peraturan yang berlaku di wilayah Anda.
+#
+# Program ini dirancang untuk membantu memahami cara kerja serangan deauthentication dalam lingkungan yang terkendali
+# dan legal, seperti laboratorium keamanan siber atau pengujian penetrasi yang diizinkan. Kami sangat menyarankan
+# agar Anda mempelajari etika hacking dan hukum terkait sebelum menggunakan program ini. Jangan gunakan program ini untuk
+# tujuan jahat atau tanpa persetujuan yang sah dari pihak yang berwenang.
+#
+# Dengan menggunakan program ini, Anda menyatakan bahwa Anda memahami risiko, tanggung jawab, dan batasan hukumnya,
+# serta setuju untuk menggunakannya hanya dalam konteks yang sah dan etis untuk kepentingan pendidikan atau
+# pengujian keamanan yang diizinkan.
+#--------------------------------------------------------------------------------------------------------------------------
 
 import sys
 import time
